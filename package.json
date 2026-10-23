@@ -2,6 +2,9 @@
   "name": "2015",
   "debug": false,
   "watch": false,
+  "overrides": {
+    "graceful-fs": "^4.2.11"
+  },
   "devDependencies": {
     "browserify": "^6.3.2",
     "browserify-shim": "^3.8.0",
